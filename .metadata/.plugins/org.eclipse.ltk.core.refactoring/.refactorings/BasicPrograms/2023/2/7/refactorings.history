@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Sample.DuplicateChar&apos; to &apos;DuplicateArray&apos;&#x0A;- Original project: &apos;BasicPrograms&apos;&#x0A;- Original element: &apos;Sample.DuplicateChar&apos;&#x0A;- Renamed element: &apos;Sample.DuplicateArray&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DuplicateChar&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Sample{DuplicateChar.java[DuplicateChar" matchStrategy="1" name="DuplicateArray" qualified="false" references="true" similarDeclarations="false" stamp="1676659143930" textual="false" version="1.0"/>
+</session>

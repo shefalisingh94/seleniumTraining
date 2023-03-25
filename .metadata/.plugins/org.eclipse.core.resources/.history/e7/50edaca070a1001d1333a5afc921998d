@@ -1,0 +1,12 @@
+package Selenium;
+
+public class AllDays {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str[] = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
+		System.out.print(String.join("", str));
+
+	}
+
+}

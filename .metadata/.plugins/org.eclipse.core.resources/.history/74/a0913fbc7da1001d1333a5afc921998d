@@ -1,0 +1,18 @@
+package Selenium;
+
+public class AllDays {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str ="Java is a funny language"; 
+		String[] words=str.split(" ");
+		
+		for(int i=words[0].length()-1; i>=0; i--)
+		//{
+			System.out.print(words[0].charAt(i));
+		//}
+		
+
+	}
+
+}
