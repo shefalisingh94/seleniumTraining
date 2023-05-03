@@ -13,7 +13,7 @@ public class AutoSuggestiveDropdown {
 		// TODO Auto-generated method stub
 		WebDriver driver= new ChromeDriver();
 		//driver.manage().window().maximize();
-		driver.get("http://google.com");
+		//.get("http://google.com");
 		driver.navigate().to("https://rahulshettyacademy.com/dropdownsPractise/");
 		driver.findElement(By.cssSelector("input[id=\"autosuggest\"]")).sendKeys("Ind");
 		Thread.sleep(2000);

@@ -15,10 +15,10 @@ public class DragDrop {
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://demoqa.com/droppable/");
 		driver.manage().window().maximize();
-		Actions builder = new Actions(driver);
+		Actions a = new Actions(driver);
 		WebElement from = driver.findElement(By.id("draggable"));
 		WebElement to =driver.findElement(By.id("droppable"));
-		builder.dragAndDrop(from, to).perform();
+		a.dragAndDrop(from, to).perform();
 		
 		String textTo = to.getText();
 

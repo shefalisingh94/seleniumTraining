@@ -19,9 +19,9 @@ public class PrintDuplicateChars {
 	            }
 	        }
 	        
-	        if (count == 0) {
-	            System.out.println("No duplicates found.");
-	        }
+//	        if (count == 0) {
+//	            System.out.println("No duplicates found.");
+//	        }
 	    }
 	}
 
