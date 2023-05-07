@@ -12,6 +12,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/shefalisingh/seleniumTraining/CucumberFrameworkJunit"/>
+			<item value="/Users/shefalisingh/seleniumTraining/CucumberFramework"/>
+			<item value="/Users/shefalisingh/seleniumTraining/selenium-cucumber-java-maven-example-master"/>
 			<item value="/Users/shefalisingh/eclipse-workspace"/>
 		</list>
 	</section>

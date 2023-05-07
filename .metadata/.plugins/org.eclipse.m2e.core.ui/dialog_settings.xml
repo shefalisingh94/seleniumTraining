@@ -48,14 +48,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="CucumberSelenium.CucumberFramework"/>
 			<item value="Cucumber.Automation"/>
 			<item value="RestAssured_BDDApproachTest"/>
 		</list>
 		<list key="groupId">
+			<item value="CucumberSelenium"/>
 			<item value="Cucumber"/>
 			<item value="RestAssured_BDDApproachTest"/>
 		</list>
 		<list key="artifactId">
+			<item value="CucumberFramework"/>
 			<item value="Automation"/>
 		</list>
 		<list key="projectNameTemplate">
